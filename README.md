@@ -1,3 +1,3 @@
 # Smart3DCursor
 
-https://github.com/dfelinto/blender/blob/master/release/scripts/modules/rna_keymap_ui.py
+https://extensions.blender.org/add-ons/key-ops-toolkit/?utm_source=blender-4.4.0
